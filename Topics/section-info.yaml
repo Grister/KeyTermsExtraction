@@ -1,0 +1,12 @@
+content:
+- Defaultdict and Counter
+- XML in Python
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Tokenization
+- Text normalization
+- Indexes
+- POS tagging
+- TF-IDF vectorizer
